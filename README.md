@@ -5,7 +5,7 @@
 Crafting digital wonders with a Bachelor's in Computer Engineering from Dnyanshree Institute Of Engineering And Technology. Passionate about revamping mockups into dynamic web pages and collaborating for unified user experiences. Join me in this journey of innovation! 🌟
 
 - 🌍  I'm based in satara
-- 🖥️  See my portfolio at [premshinde-portfolio.netlify.app/](http://premshinde-portfolio.netlify.app/)
+- 🖥️  See my portfolio at [premshindedev.vercel.app](https://premshindedev.vercel.app/)
 - ✉️  You can contact me at [shindeprem102@gmail.com](mailto:shindeprem102@gmail.com)
 - 🧠  I'm learning Next.js
 - 🤝  I'm open to collaborating on Full Stack Projects
