@@ -29,7 +29,6 @@ src="https://img.shields.io/github/followers/PremShinde-2013?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PremShinde-2013"><img src="https://github-readme-stats.vercel.app/api?username=PremShinde-2013&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="PremShinde-2013's GitHub stats" /></a>
 
 <a href="http://www.github.com/PremShinde-2013"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PremShinde-2013&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
