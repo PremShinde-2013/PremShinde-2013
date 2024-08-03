@@ -11,7 +11,7 @@ Crafting digital wonders with a Bachelor's in Computer Engineering from Dnyanshr
 - 🤝  I'm open to collaborating on Full Stack Projects
 
 <a href="https://www.github.com/PremShinde-2013" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/PremShinde-2013?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/PremShinde-2013?logo=github&style=for-the-badge&color=a855f7&labelColor=edf2fb" /></a>
 
 ### Skills
 
@@ -29,7 +29,8 @@ src="https://img.shields.io/github/followers/PremShinde-2013?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/PremShinde-2013"><img src="https://github-readme-stats.vercel.app/api?username=PremShinde-2013&show_icons=true&hide=&count_private=true&title_color=b100e8&text_color=b100e8&icon_color=b100e8&bg_color=edf2fb&hide_border=true&show_icons=true" alt="PremShinde-2013's GitHub stats" /></a>
 
-<a href="http://www.github.com/PremShinde-2013"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PremShinde-2013&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/PremShinde-2013"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PremShinde-2013&stroke=b100e8&background=edf2fb&ring=a855f7&fire=a855f7&currStreakNum=b100e8&currStreakLabel=a855f7&sideNums=b100e8&sideLabels=b100e8&dates=b100e8&hide_border=true" /></a>
 
-<a href="https://github.com/PremShinde-2013" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremShinde-2013&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/PremShinde-2013" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremShinde-2013&langs_count=10&title_color=b100e8&text_color=b100e8&icon_color=b100e8&bg_color=edf2fb&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
