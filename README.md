@@ -32,6 +32,5 @@ src="https://img.shields.io/github/followers/PremShinde-2013?logo=github&style=f
 
 <a href="http://www.github.com/PremShinde-2013"><img src="https://github-readme-stats.vercel.app/api?username=PremShinde-2013&show_icons=true&hide=&count_private=true&title_color=dc2f02&text_color=dc2f02&icon_color=dc2f02&bg_color=fcfcf2&hide_border=true&show_icons=true" alt="PremShinde-2013's GitHub stats" /></a>
 
-<a href="http://www.github.com/PremShinde-2013"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PremShinde-2013&stroke=dc2f02&background=fcfcf2&ring=dc2f02&fire=dc2f02&currStreakNum=dc2f02&currStreakLabel=dc2f02&sideNums=dc2f02&sideLabels=dc2f02&dates=dc2f02&hide_border=true" /></a>
 
 <a href="https://github.com/PremShinde-2013" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremShinde-2013&langs_count=10&title_color=dc2f02&text_color=dc2f02&icon_color=dc2f02&bg_color=fcfcf2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
