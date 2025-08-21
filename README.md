@@ -1,36 +1,50 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prem Shinde
+# Hi there! 👋 I'm Prem Shinde  
 
-## Web Developer and Designer
+## Software Developer | Aspiring AI Engineer  
 
-Crafting digital wonders with a Bachelor's in Computer Engineering from Dnyanshree Institute Of Engineering And Technology. Passionate about revamping mockups into dynamic web pages and collaborating for unified user experiences. Join me in this journey of innovation! 🌟
+With a **Bachelor’s in Computer Engineering** from *Dnyanshree Institute Of Engineering And Technology*, I’m passionate about building impactful digital solutions. My journey began with transforming **mockups into responsive web apps**, and now I’m expanding into the world of **AI/ML engineering** — blending software development with data-driven intelligence.  
 
-- 🌍  I'm based in satara
-- 🖥️  See my portfolio at [premshindedev.vercel.app](https://premshindedev.vercel.app/)
-- ✉️  You can contact me at [shindeprem102@gmail.com](mailto:shindeprem102@gmail.com)
-- 🧠  I'm learning Next.js
-- 🤝  I'm open to collaborating on Full Stack Projects
+I love collaborating on innovative projects, crafting smooth user experiences, and continuously learning emerging technologies that shape the future. 🌟  
 
-<a href="https://www.github.com/PremShinde-2013" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/PremShinde-2013?logo=github&style=for-the-badge&color=dc2f02&labelColor=fcfcf2" /></a>
+- 🌍 Based in **Pune, India**  
+- 🖥️ Explore my work: [premshindedev.vercel.app](https://premshindedev.vercel.app/)  
+- ✉️ Reach me at: [shindeprem102@gmail.com](mailto:shindeprem102@gmail.com)  
+- 🧠 Currently learning **Next.js**, **AI/ML concepts**, and exploring **NumPy & Pandas**  
+- 🤝 Open to collaborations in **Full Stack Development** & **AI-powered applications**  
 
-### Skills
+<a href="https://www.github.com/PremShinde-2013" target="_blank" rel="noreferrer"><img  
+src="https://img.shields.io/github/followers/PremShinde-2013?logo=github&style=for-the-badge&color=dc2f02&labelColor=fcfcf2" /></a>  
 
-<p align="left">
+---
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,bootstrap,javascript,php,github,git,mysql,aws,typescript,python,nextjs,react,materialui,figma,firebase,express,mongodb,nodejs,appwrite,tailwind,vscode,threejs,redux,redis,prisma,netlify,vercel,vite,md,,&=5)](https://skillicons.dev)
+### 🛠️ Skills  
 
+<p align="left">  
 
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,bootstrap,javascript,php,typescript,nextjs,react,nodejs,express,mongodb,mysql,tailwind,materialui,redux,prisma,redis,firebase,appwrite,aws,threejs,figma,git,github,vscode,vercel,netlify,vite&perline=8)](https://skillicons.dev)  
 
-### Socials
+</p>  
 
-<p align="left"> <a href="https://www.github.com/PremShinde-2013" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/prem-shinde-diet/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
+### 🌐 Socials  
 
-### Badges
+<p align="left"> 
+<a href="https://www.github.com/PremShinde-2013" target="_blank" rel="noreferrer"> 
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  
 
-<b>My GitHub Stats</b>
+<a href="https://www.linkedin.com/in/prem-shinde-diet/" target="_blank" rel="noreferrer"> 
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>  
+</p>  
 
-<a href="http://www.github.com/PremShinde-2013"><img src="https://github-readme-stats.vercel.app/api?username=PremShinde-2013&show_icons=true&hide=&count_private=true&title_color=dc2f02&text_color=dc2f02&icon_color=dc2f02&bg_color=fcfcf2&hide_border=true&show_icons=true" alt="PremShinde-2013's GitHub stats" /></a>
+---
 
+### 🏆 GitHub Stats  
 
-<a href="https://github.com/PremShinde-2013" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremShinde-2013&langs_count=10&title_color=dc2f02&text_color=dc2f02&icon_color=dc2f02&bg_color=fcfcf2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/PremShinde-2013"><img src="https://github-readme-stats.vercel.app/api?username=PremShinde-2013&show_icons=true&hide=&count_private=true&title_color=dc2f02&text_color=dc2f02&icon_color=dc2f02&bg_color=fcfcf2&hide_border=true&show_icons=true" alt="PremShinde-2013's GitHub stats" /></a>  
+
+<a href="https://github.com/PremShinde-2013" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremShinde-2013&langs_count=10&title_color=dc2f02&text_color=dc2f02&icon_color=dc2f02&bg_color=fcfcf2&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  
